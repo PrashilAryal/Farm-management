@@ -13,7 +13,7 @@
     <div class="container text-center">
         <div class="row g-2">
             <div class="col-6">
-                <div class="p-5 border">Total Animials: 10,000</div>
+                <div class="p-5 border">Total Animals: 10,000</div>
             </div>
             <div class="col-6">
                 <div class="p-5 border">Market Growth: 10%</div>

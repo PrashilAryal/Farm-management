@@ -99,7 +99,8 @@
     }
 
     .p-5 {
-        background-color: #BB6464;
+        /* background-color: #BB6464; */
+        background-color: #D6CDA4;
         border-radius: 10px;
         font-size: 1.3rem;
         font-weight: 800;
@@ -149,6 +150,7 @@
         color: white;
         border-radius: 10px;
         margin-top: 50px;
+
     }
 
     #formLayout>h1 {

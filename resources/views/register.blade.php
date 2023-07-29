@@ -1,7 +1,7 @@
 @extends('layout.main')
 
 @section('content')
-<div id="formLayout" class="box shadow p-4">
+<div id="formLayout" class="shadow p-3 md-5" style="width: 500px;">
     <h1 class="d-flex justify-content-center">Register</h1>
     <div class="d-flex justify-content-center">
         <form method="post" action="{{route('registerUser')}}">

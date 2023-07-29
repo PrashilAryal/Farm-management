@@ -17,9 +17,9 @@
             <td>{{$value->price}}</td>
             <td>
                 <a href="{{url('/edit/'.$value->id)}}"
-                    style="color: green; border: 1px solid green; padding: 5px;;">Edit</a>
+                    style="color: green; border: 1px solid green; padding: 5px; border-radius: 5px;">Edit</a>
                 <a href="{{url('/delete/'.$value->id)}}"
-                    style="color: red; border: 1px solid red; padding: 5px;">Delete</a>
+                    style="color: red; border: 1px solid red; padding: 5px; border-radius: 5px;">Delete</a>
             </td>
         </tr>
         @endforeach

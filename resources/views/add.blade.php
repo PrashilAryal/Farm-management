@@ -12,7 +12,7 @@
         </div>
         <div class="mb-3">
             <label for="exampleInputPassword1" class="form-label">Quantity</label>
-            <input type="text" class="form-control" name="quantity" placeholder="Enter quntity..."
+            <input type="text" class="form-control" name="quantity" placeholder="Enter quantity..."
                 id="exampleInputPassword1">
         </div>
         <div class="mb-3">

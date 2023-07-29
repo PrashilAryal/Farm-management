@@ -1,7 +1,7 @@
 @extends('layout.main')
 
 @section('content')
-<div id="formLayout">
+<div id="formLayout" class="shadow p-3 md-5" style="width: 500px;">
     @if(Session::has('fail'))
     <div class="alert alert-danger" role="alert">{{Session::get('fail')}}</div>
     @endif
